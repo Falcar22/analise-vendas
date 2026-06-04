@@ -15,6 +15,6 @@ O arquivo `.xlsx` foi organizado seguindo boas práticas de divisão de escopo:
 - Gráficos de colunas para análise de performance
 
 ## 🚀 Como reproduzir
-1. Baixe o arquivo `Book.xlsx` presente neste repositório.
+1. Baixe o arquivo `Book.csv` presente neste repositório.
 2. Abra no Microsoft Excel ou Google Planilhas.
 3. Navegue entre as abas inferiores para conferir a separação entre a base de dados e a interface visual.
